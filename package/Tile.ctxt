@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tile\ here.\r\n\r\n\ @author\ Bruh\ moment\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=location
+comment1.target=Tile(Location)
+comment2.params=color
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=Location\ getLocation()
+numComments=5

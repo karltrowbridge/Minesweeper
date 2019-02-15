@@ -38,6 +38,8 @@ public class BoardPanel extends JPanel
     public void setDisplayCount(int count)
     { displayCount = count; }
 
+    
+    
     private Minesweeper game;
 
     public void update(Minesweeper game)
