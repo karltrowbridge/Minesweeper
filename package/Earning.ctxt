@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Earning
+comment0.text=\r\n\ Earnig\ object\ holds\ info\ that\ was\ made\ from\ one\ day.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tips\ hours\ date
+comment1.target=Earning(int,\ double,\ java.text.SimpleDateFormat)
+comment2.params=
+comment2.target=int\ getTips()
+comment3.params=
+comment3.target=double\ getHours()
+comment4.params=
+comment4.target=java.text.SimpleDateFormat\ getDate()
+numComments=5
