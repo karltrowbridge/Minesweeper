@@ -31,5 +31,11 @@ public class Earning
     
     // set methods
     public void setTips(int newTips)
-    {this.tips = newTips
+    {this.tips = newTips;}
+    
+    public void setHours(double newHours)
+    {this.hours = newHours;}
+    
+    public void date(SimpleDateFormat newDate)
+    {this.date = newDate;}
 }
