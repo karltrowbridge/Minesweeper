@@ -23,7 +23,7 @@ public class EarningsPanel
         
         this.calculate.addActionListener(listener);
         
-        this.add(this.calculate);
+        this.add(calculate);
     }
     
     public class ClickListener implements ActionListener
